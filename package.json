@@ -1,0 +1,24 @@
+{
+  "name": "meta-filesystem",
+  "version": "1.0.0",
+  "description": "Filesystem access for meta",
+  "author": "haraldox",
+  "license": "UNLICENSED",
+  "meta": {
+    "packages": {
+      "client": [
+        {
+          "services": [
+
+          ],
+          "main": "client/index.js"
+        },
+      ],
+      "server": [
+        {
+          "main": "server/index.js"
+        }
+      ]
+    }
+  }
+}
