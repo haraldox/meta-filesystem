@@ -12,7 +12,7 @@
 
           ],
           "main": "client/index.js"
-        },
+        }
       ],
       "server": [
         {
